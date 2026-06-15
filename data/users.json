@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2272f89e-1445-49db-9a65-7eb47c308eaf",
+    "name": "Alice",
+    "email": "alice@test.com",
+    "password": "$2b$10$kQ25v3vQHbCeyos0PZllxenetHGvGgzkcWQExGpYacV4xuHypmkQu",
+    "role": "user"
+  },
+  {
+    "id": "e15978c1-0086-4b2b-a2fd-5e2da31f32af",
+    "name": "Admin",
+    "email": "admin@test.com",
+    "password": "$2b$10$1SgWJc.PNh6A.ah5vuvZB.M0KLtlmOYZi1f42zrb5D.QdHvlwrJpW",
+    "role": "admin"
+  },
+  {
+    "id": "474e9fd7-63cb-4d42-86f5-8ff1d1862509",
+    "name": "Bob",
+    "email": "bob@test.com",
+    "password": "$2b$10$PMLqhigEsmOpVwXOOdexYeo2O0aS.zVdaYTqMKC.AFqestH09L/ca",
+    "role": "user"
+  },
+  {
+    "id": "6ccc5436-1096-4dc0-9a14-4c2760cfaa32",
+    "name": "Charlie",
+    "email": "charlie@test.com",
+    "password": "$2b$10$rbz0OeoWU1JFYU7z9xgmoeuJ8P9UbC9ohQaK4vtXfyHlvnPzRU30e",
+    "role": "user"
+  },
+  {
+    "id": "30afe7b0-3fcf-492e-a617-1fa4736b1930",
+    "name": "System Admin",
+    "email": "admin@taskapp.com",
+    "password": "$2b$10$0DZGqjtcpP8W1BVVlk52ZOkKkp3bNZDaGB53LqYq1Ts0puNh9cg82",
+    "role": "admin"
+  },
+  {
+    "id": "be98ae47-9f14-4a6b-84fa-bfde7319c4cd",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "$2b$10$d1/MptQ2f4uX4Q0TFJt05ePv2U9zG.4yLPlLkOC7JfB/.Mfu4C0nO",
+    "role": "user"
+  }
+]
